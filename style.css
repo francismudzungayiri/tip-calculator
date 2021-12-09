@@ -136,7 +136,7 @@ button:hover{
 }
 .right-side{
     background-color: var(--Very-dark-cyan);
-    padding: 1.5rem;
+    padding: 2rem;
     border-radius: .7rem;
     width: 50%;
     display: flex;
